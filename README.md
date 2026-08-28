@@ -1,4 +1,6 @@
-<img src="banner.png" align="center" height="215">
+<div align="center">
+<img src="banner.png" height="250" alt="banner">
+</div>
 
 # Hiilo!
 Making silly things through pain and suffering
