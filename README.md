@@ -1,4 +1,4 @@
-<img src="banner.png" align="center">
+<img src="banner.png" align="center" height="215">
 
 # Hiilo!
 Making silly things through pain and suffering
