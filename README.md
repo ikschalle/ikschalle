@@ -1,4 +1,4 @@
-<img src="seb-shy.gif" align="right" width="140">
+<img src="banner.png" align="center">
 
 # Hiilo!
 Making silly things through pain and suffering
