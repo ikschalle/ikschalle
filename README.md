@@ -1,16 +1,13 @@
-## Hi there 👋
+<img src="seb-shy.gif" align="right" width="140">
 
-<!--
-**ikschalle/ikschalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hiilo!
+Making silly things through pain and suffering
 
-Here are some ideas to get you started:
+If you'd like to talk the best way is probably through Discord, forever under the handle of `ikschalle`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## A Random List
+- I adore Minecraft
+- I love Tea
+- I like Trains
+- Pixels are yummy
+
